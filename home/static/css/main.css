@@ -1,0 +1,7 @@
+.telegram-link {
+    cursor: hand;
+    vertical-align: bottom;
+
+    /*content: url("../images/telegram.png");*/
+    /*background-image: url("../images/telegram.png");*/
+}
